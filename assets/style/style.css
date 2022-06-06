@@ -1,0 +1,9 @@
+/* BASIC STYLES HERE */
+.pokemon-row {
+  height: 91.7vh;
+}
+
+.all-pokemons {
+  max-height: 100%;
+  overflow-y: auto;
+}
